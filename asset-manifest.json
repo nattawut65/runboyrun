@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/runboyrun/static/css/main.4e598545.css",
+    "main.js": "/runboyrun/static/js/main.7f12bd52.js",
+    "static/js/787.3adb45fa.chunk.js": "/runboyrun/static/js/787.3adb45fa.chunk.js",
+    "static/media/prodi.jpg": "/runboyrun/static/media/prodi.010e2eb122302e5a973a.jpg",
+    "static/media/youcoco.png": "/runboyrun/static/media/youcoco.a08e77ebf26d5eb257ac.png",
+    "static/media/cocogod.png": "/runboyrun/static/media/cocogod.15eff6f347450569c911.png",
+    "static/media/pidgod.png": "/runboyrun/static/media/pidgod.494bbb20a382ab903193.png",
+    "index.html": "/runboyrun/index.html",
+    "main.4e598545.css.map": "/runboyrun/static/css/main.4e598545.css.map",
+    "main.7f12bd52.js.map": "/runboyrun/static/js/main.7f12bd52.js.map",
+    "787.3adb45fa.chunk.js.map": "/runboyrun/static/js/787.3adb45fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e598545.css",
+    "static/js/main.7f12bd52.js"
+  ]
+}
